@@ -1,2 +1,5 @@
-# App-dev
-My first repository.
+# How To Train Your Dragon
+**How to Train Your Dragon is a coming-of-age fantasy story set in a mythical Viking world, focusing on the bond between a young boy and a dragon. The story is presented in different ways across its book, movie, and TV series versions, but here's a summary based on the 2010 animated film, the most widely known version**
+1. The How to Train Your Dragon book series was written by Cressida Cowell
+2. Hiccup Horrendous Haddock III, The story's protagonist, Hiccup is a clever, inventive, and somewhat clumsy teenager. He is the son of Stoick the Vast, the Viking chief, and struggles to live up to the expectations of his tribe. Hiccup's unique bond with Toothless transforms him into a bridge between the Vikings and dragons.
+3. Toothless, A Night Fury, the rarest and most powerful species of dragon. Despite his intimidating reputation, Toothless is loyal, intelligent, and playful. His relationship with Hiccup is the emotional core of the story, showcasing themes of trust and understanding.
